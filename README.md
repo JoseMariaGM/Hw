@@ -1,9 +1,6 @@
 ## Titulo de ejemplo
 ## SubsubTitulo de ejemplo
 
-1 más 1 son 2
+El CPU actual tiene incluido el puente norte en el y solamente queda el puente sur.
 
-2 más 2 son 4
-
-4 más 4 son 8
-
+Antes cuando esto no era así, había puente norte y puente sur en la placa base, de manera que estaban separados y el norte admitía lo más rápido y el sur lo más lento.
